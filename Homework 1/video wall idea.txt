@@ -1,0 +1,2 @@
+My idea for the video wall so far would be to make some sort of interactive animation. It could be like a game as well.
+I was thinking of having an image that has small animations and when you touch certain objects in the image they come to life or animate in some way.
