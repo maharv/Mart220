@@ -1,0 +1,3 @@
+assets/jump1.png
+assets/jump2.png
+assets/jump3.png
