@@ -14,11 +14,16 @@ function preload() {
 
 function setup() {
   createCanvas (400, 300, WEBGL);
+  textSize(60);
+  
 }
 
 function draw() {
+  text('Mark Harvey', 0, 0);
   background(175);
   normalMaterial();
+
+
 push();
   scale(0.9);
   rotateX(720);
